@@ -1,0 +1,17 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local datasets and archives
+cyclone_dataset/
+*.zip
+
+# Trained model checkpoints
+*.pth
+
+# Local/editor files
+.vscode/
+.env
